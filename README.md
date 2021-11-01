@@ -1,2 +1,7 @@
-# chrome-extension-catroom
-猫房，一个chrome浏览器插件
+# 猫房
+
+一个让你在Chrome浏览器中撸猫的插件，并且还有神秘的猫星人聊天室等你来玩
+
+
+
+enjoy！
