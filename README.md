@@ -9,6 +9,12 @@
 
 ![image.png](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/3de9fec981a44f0b8190dda353cfd75e~tplv-k3u1fbpfcp-watermark.image?)
 
+## 交流Q群
+
+- qq群3群（新）：1108750812
+- qq群2群（满）：610394408
+- qq群1群（满）：1026509663
+
 ## 使用说明
 
 - 源码安装
@@ -21,5 +27,8 @@
 
 - catroom.crx安装
 
+## 更多有趣插件
+
+- [彩虹屁老婆](https://github.com/ezshine/live2d-model-collections)
 
 enjoy！
