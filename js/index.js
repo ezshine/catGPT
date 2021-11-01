@@ -16,8 +16,5 @@ reposity:https://github.com/ezshine/chrome-extension-catroom
         };
         document.head.appendChild(temp);
     }
-    injectCustomJs('js/catroom.js',function(){
-        setupCatCanvas();
-        setupModel();
-    });
+    injectCustomJs('js/catroom.js');
 }()
