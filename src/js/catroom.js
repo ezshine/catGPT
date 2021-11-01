@@ -152,10 +152,10 @@ function setupChat(){
    }
 
    function setupModel(){
-      loadlive2d('live2d','https://cdn.jsdelivr.net/gh/ezshine/chrome-extension-catroom/resources/whitecat/model.json');
+      loadlive2d('live2d','https://cdn.jsdelivr.net/gh/ezshine/chrome-extension-catroom/src/resources/whitecat/model.json');
    }
 
-   injectCustomJs('https://cdn.jsdelivr.net/gh/ezshine/chrome-extension-catroom/js/live2d-mini.js',function(){
+   injectCustomJs('https://cdn.jsdelivr.net/gh/ezshine/chrome-extension-catroom/src/js/live2d-mini.js',function(){
       setupCatCanvas();
       setupModel();
 
