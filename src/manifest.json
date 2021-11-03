@@ -1,22 +1,21 @@
 {
 	"manifest_version": 2,
-	"name": "猫房",
+	"name": "掘金养猫",
 	"version": "0.0.1",
-	"description": "在所有网页里撸猫并使用猫语实时聊天",
+	"description": "在稀土掘金社区撸猫并使用猫语实时聊天",
 	"icons":
 	{
 		"16": "resources/icon16.png",
 		"48": "resources/icon48.png",
 		"128": "resources/icon128.png"
 	},
-	"browser_action": 
-	{
+	"browser_action": {
 		"default_icon": "resources/icon128.png"
 	},
 	"content_scripts": 
 	[
 		{
-			"matches": ["<all_urls>"],
+			"matches": ["https://juejin.cn/*"],
 			"js": ["js/index.js"],
 			"run_at": "document_end"
 		}
