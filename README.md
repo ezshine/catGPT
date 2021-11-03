@@ -27,7 +27,7 @@
 
 - catroom.crx
 
-> 由于本人没有chrome插件开发者证书
+> 由于本人没有chrome插件开发者证书，所以无法直接安装crx文件。请按照下述步骤安装
 
 ```
 1. 下载catroom.crx
