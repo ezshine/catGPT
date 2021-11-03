@@ -25,7 +25,17 @@
 3. 选择src目录
 ```
 
-- catroom.crx安装
+- catroom.crx
+
+> 由于本人没有chrome插件开发者证书
+
+```
+1. 下载catroom.crx
+2. 重命名为catroom.rar
+3. 解压缩
+4. chrome菜单>更多工具>加载已解压的扩展工具
+5. 选择src目录
+```
 
 ## 更多有趣插件
 
