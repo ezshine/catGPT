@@ -27,15 +27,10 @@
 
 - catroom.crx
 
-> 由于本人没有chrome插件开发者证书，所以无法直接安装crx文件。请按照下述步骤安装
+已经由[iChenLei](https://github.com/iChenLei)童鞋帮忙发布到Chrome商店了
 
-```
-1. 下载catroom.crx
-2. 重命名为catroom.rar
-3. 解压缩
-4. chrome菜单>更多工具>加载已解压的扩展工具
-5. 选择src目录
-```
+[![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/894192fd6bbe4ce98a679d4f83745c33~tplv-k3u1fbpfcp-zoom-1.image)](https://chrome.google.com/webstore/detail/%E6%8E%98%E9%87%91%E5%85%BB%E7%8C%AB/cpcipdimojbgeegcdhalegkbaelnellb)
+
 
 ## 更多有趣插件
 

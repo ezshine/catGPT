@@ -22,11 +22,7 @@
 	],
 	"permissions":
 	[
-		"webRequest",
-		"webRequestBlocking",
-		"storage",
-		"http://*/*",
-		"https://*/*"
+		
 	],
 	"web_accessible_resources": ["js/live2d-mini.js","js/catroom.js"],
 	"homepage_url": "https://github.com/ezshine/chrome-extension-catroom",
